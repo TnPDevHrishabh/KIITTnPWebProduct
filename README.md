@@ -1,2 +1,2 @@
 # KIITTnPWebProduct
-This branch consists of the frontend code for the web portal. 
+This branch consists of the database design for the project.
