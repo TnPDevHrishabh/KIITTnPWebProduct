@@ -1,2 +1,2 @@
 # KIITTnPWebProduct
-This branch consists of the backend spring microservices along with the database. 
+This branch consists of the restful microservices built using spring boot. 
